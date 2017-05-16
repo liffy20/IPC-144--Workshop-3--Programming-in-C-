@@ -1,9 +1,7 @@
 /* marks.c */
 /* marks.c */
 
-/* By: Daniel Lifchitz */
 
-/* Student ID: 107719163*/
 
 /* Section: SSS*/
 
